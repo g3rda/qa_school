@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="51bdcc15-4c07-4b3c-8c4f-47073208b6ab" name="Default Changelist" comment="" />
+    <list default="true" id="51bdcc15-4c07-4b3c-8c4f-47073208b6ab" name="Default Changelist" comment="second commit">
+      <change afterPath="$PROJECT_DIR$/src/HW2/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/NumberOfB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/RandomArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/SumOfOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/TwoArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW2/Wallpaper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aJfpkeVVZNSh8PfwxFxcBSc6eU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,14 +36,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../qa2" />
   </component>
-  <component name="RunManager" selected="Application.TriangleArea">
-    <configuration name="GreatestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.GreatestNumber" />
+  <component name="RunManager" selected="Application.StudentToFile">
+    <configuration name="NumberOfB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.NumberOfB" />
       <module name="QA School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW1.*" />
+          <option name="PATTERN" value="HW2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -30,12 +52,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.IsEven" />
+    <configuration name="RandomArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.RandomArray" />
       <module name="QA School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW1.*" />
+          <option name="PATTERN" value="HW2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -43,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ParallelogramArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.ParallelogramArea" />
+    <configuration name="StudentToFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW3.StudentToFile" />
       <module name="QA School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW1.*" />
+          <option name="PATTERN" value="HW3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.StringSum" />
+    <configuration name="SumOfOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.SumOfOdd" />
       <module name="QA School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW1.*" />
+          <option name="PATTERN" value="HW2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HW1.TriangleArea" />
+    <configuration name="TwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW2.TwoArrays" />
       <module name="QA School" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="HW1.*" />
+          <option name="PATTERN" value="HW2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TriangleArea" />
-        <item itemvalue="Application.StringSum" />
-        <item itemvalue="Application.ParallelogramArea" />
-        <item itemvalue="Application.IsEven" />
-        <item itemvalue="Application.GreatestNumber" />
+        <item itemvalue="Application.StudentToFile" />
+        <item itemvalue="Application.NumberOfB" />
+        <item itemvalue="Application.TwoArrays" />
+        <item itemvalue="Application.RandomArray" />
+        <item itemvalue="Application.SumOfOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -103,24 +125,72 @@
       <option name="presentableId" value="Default" />
       <updated>1586458801442</updated>
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1586630848068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586630848068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="second commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="second commit" />
+  </component>
   <component name="WindowStateProjectService">
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1586458969733">
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1586631592929">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586458969733" />
-    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1586458969733">
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586631592929" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1586633483941">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586458969733" />
-    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1586458969732">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586633483941" />
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom" timestamp="1586638203229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586458969732" />
-    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1586458969733">
+    <state width="1322" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586638203229" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center" timestamp="1586638203229">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586458969733" />
+    <state width="1322" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586638203229" />
+    <state width="1322" height="179" key="GridCell.Tab.0.left" timestamp="1586638203229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586638203229" />
+    <state width="1322" height="179" key="GridCell.Tab.0.right" timestamp="1586638203229">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586638203229" />
+    <state width="661" height="217" key="GridCell.Tab.1.bottom" timestamp="1586638202610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586638202610" />
+    <state width="661" height="217" key="GridCell.Tab.1.center" timestamp="1586638202610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586638202610" />
+    <state width="661" height="217" key="GridCell.Tab.1.left" timestamp="1586638202610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586638202610" />
+    <state width="661" height="217" key="GridCell.Tab.1.right" timestamp="1586638202610">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586638202610" />
+    <state x="486" y="74" key="RollbackChangesDialog" timestamp="1586630913474">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="486" y="74" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586630913474" />
+    <state x="732" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1586629271805">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="732" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586629271805" />
+    <state x="693" y="157" key="run.anything.popup" timestamp="1586632465104">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="693" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1586632465104" />
   </component>
 </project>
